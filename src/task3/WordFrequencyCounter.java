@@ -1,12 +1,10 @@
 package task3;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 public class WordFrequencyCounter {
 
